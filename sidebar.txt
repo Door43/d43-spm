@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spm:home|Door43 (spm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spm|d43-spm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spm/archive/master.zip|d43-spm.zip]]
+
+**Recent Changes**
+{{changes>ns = spm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spm|Ethnologue data]]
+
